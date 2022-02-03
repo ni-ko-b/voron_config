@@ -7,6 +7,7 @@
 
 ## nice-to-have
 - [ ] add and configure https://github.com/julianschill/klipper-led_effect
+- [ ] add a macro to keep track of how long the nevermore filter cartridge was in use since last change
 
 ## hardware
 - [ ] add "decontaminator" bucket + brush
