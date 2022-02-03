@@ -1,5 +1,8 @@
 # todos
 
+## slicer
+- [ ] add to ps: `PRINT_START SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}`
+
 ## calibration
 - [ ] fine tune https://github.com/AndrewEllis93/Print-Tuning-Guide#pressure-advance
 - [ ] fine tune https://github.com/AndrewEllis93/Print-Tuning-Guide#determining-maximum-speeds-and-accelerations
