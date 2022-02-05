@@ -1,7 +1,7 @@
 # todos
 
 ## slicer
-- [ ] add to ps: `PRINT_START SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}`
+- [X] add to ps: `PRINT_START SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}`
 - [ ] check `clean_nozzle` config
 
 ## calibration
